@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## AI Builder Studio - 프로젝트 생성 가이드
 
 ## 프로젝트 개요
