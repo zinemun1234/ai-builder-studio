@@ -166,21 +166,6 @@ const layers: LayerConfig[] = [
 
 ---
 
-## 배포 및 운영
-
-### 로컬 개발 환경
-```bash
-# 빌드
-npm run build
-
-# 시작
-npm start
-```
-
-### 프로덕션 배포
-- Vercel, Netlify, AWS Amplify 지원
-- 정적 사이트 생성 가능
-- 환경 변수 설정 필요 시 별도 제공
 
 ---
 
@@ -194,4 +179,3 @@ MIT License - 자유례 사용 및 수정 가능
 
 이 프로젝트는 AI 개발을 더 쉽게 접근할 수 있도록 설계되었습니다. 질문이나 개선 제안이 있으시면 언제해 주세요.
 
-**Happy AI Building! 🚀**
